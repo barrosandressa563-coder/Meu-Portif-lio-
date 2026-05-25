@@ -1,21 +1,18 @@
-# Meu-Portfólio-
-<div align="center">
-#Andressa barros
-### Estudante de Análise e Deenvolvimento de Sistemas
+# Livraria Moon
+Projeto desenvolvido para praticar:
 
-Front-End - Cibersegurança - Backend
+HTML
+CSS
+JavaScript
+Node.js
+Express
 
-<img src=""
+## Objetivo
+Aprender mais sobre deenvolvimento web, back-end e front-end através de projetos práticos.
 
-</div>
+## Status
+Em desenvolvimennto
 
-# Sobre Mim
-```js
-const andressa = {
-  linguagemAtual: ["C", "C++", "JavaScript"],
-  aprendendo: ["Node.js", "Banco de Dados", "PHP"],
-  interesses: ["Front-End", "Cybersecurty", "UI Design"],
-  objetivo: "Me tornar uma desenvolvedora que resolve problemas reais"
-}
-```
-# Tecnologias
+
+
+
